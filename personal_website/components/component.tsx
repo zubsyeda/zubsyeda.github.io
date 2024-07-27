@@ -35,7 +35,7 @@ export function Component() {
       <header className="px-4 lg:px-6 py-4 flex items-center justify-between border-b">
         <Link href="#" className="flex items-center gap-2" prefetch={false}>
           <CodeIcon className="w-6 h-6" />
-          <span className="font-semibold text-lg">John Doe</span>
+          <span className="font-semibold text-lg">Zubiya Syeda</span>
         </Link>
         <nav className="hidden lg:flex items-center gap-4">
           <Link href="#" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>
@@ -57,7 +57,7 @@ export function Component() {
         <section id="hero" className="py-12 md:py-24 lg:py-32 bg-muted">
           <div className="container px-4 md:px-6 grid gap-6 lg:grid-cols-2 items-center">
             <div className="space-y-4">
-              <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">Hi, I'm John Doe</h1>
+              <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">Hi, I'm Zubiya Syeda</h1>
               <p className="text-muted-foreground md:text-xl">
                 I'm a passionate Computer Science student with a strong interest in web development and software
                 engineering.
@@ -267,7 +267,7 @@ export function Component() {
         <div className="container px-4 md:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <CodeIcon className="w-5 h-5" />
-            <span className="text-sm">John Doe &copy; 2024</span>
+            <span className="text-sm">Zubiya Syeda &copy; 2024</span>
           </div>
           <nav className="flex items-center gap-4">
             <Link href="#" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>
